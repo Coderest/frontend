@@ -1,2 +1,2 @@
 # frontend
-homework projekt
+homework project
